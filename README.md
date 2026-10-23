@@ -57,13 +57,74 @@ Temperatures follow the FDA Food Code 2022 (cold holding 41°F / 5°C or below, 
 | **[Multi-Unit Weekly Ops Scorecard](https://www.restaurantcodex.com/resources/multi-unit-weekly-ops-scorecard)** ([es](https://www.restaurantcodex.com/es/resources/multi-unit-weekly-ops-scorecard)) | A ranked, weighted scorecard for up to 8 locations, paired with the district manager visit checklist that explains what a red number alone can't. | [workbook.en.xlsx](templates/multi-unit-weekly-ops-scorecard/workbook.en.xlsx) · [workbook.es.xlsx](templates/multi-unit-weekly-ops-scorecard/workbook.es.xlsx) · [visit.en.pdf](templates/multi-unit-weekly-ops-scorecard/visit.en.pdf) · [visit.es.pdf](templates/multi-unit-weekly-ops-scorecard/visit.es.pdf) · [visit.en.xlsx](templates/multi-unit-weekly-ops-scorecard/visit.en.xlsx) · [visit.es.xlsx](templates/multi-unit-weekly-ops-scorecard/visit.es.xlsx) |
 | **[New Restaurant Location Opening Checklist](https://www.restaurantcodex.com/resources/new-restaurant-location-opening-checklist)** ([es](https://www.restaurantcodex.com/es/resources/new-restaurant-location-opening-checklist)) | A 120-days-out-to-day-30 opening timeline for a group's next location: permits, hiring, a break-even model and a soft-open plan, in English and Spanish. | [opening.en.pdf](templates/new-restaurant-location-opening-checklist/opening.en.pdf) · [opening.es.pdf](templates/new-restaurant-location-opening-checklist/opening.es.pdf) · [opening.en.xlsx](templates/new-restaurant-location-opening-checklist/opening.en.xlsx) · [opening.es.xlsx](templates/new-restaurant-location-opening-checklist/opening.es.xlsx) |
 
+## Guides for operators
+
+Long, sourced guides that go with the templates, in English and Spanish:
+
+**Operations**
+
+- [AI in Restaurant Operations: What Works in 2026](https://www.restaurantcodex.com/insights/ai-for-restaurant-operations) ([es](https://www.restaurantcodex.com/es/insights/ai-for-restaurant-operations))
+- [Restaurant Shift Management: Pre-Shift to Close](https://www.restaurantcodex.com/insights/restaurant-shift-management-guide) ([es](https://www.restaurantcodex.com/es/insights/restaurant-shift-management-guide))
+- [How to Make Your Restaurant Run Without You](https://www.restaurantcodex.com/insights/restaurant-that-runs-without-you) ([es](https://www.restaurantcodex.com/es/insights/restaurant-that-runs-without-you))
+- [What Restaurant Operations Software Is (and What It Isn't)](https://www.restaurantcodex.com/insights/what-is-restaurant-operations-software) ([es](https://www.restaurantcodex.com/es/insights/what-is-restaurant-operations-software))
+- [What Software Do Restaurants Use? The Stack, Layer by Layer](https://www.restaurantcodex.com/insights/what-software-do-restaurants-use) ([es](https://www.restaurantcodex.com/es/insights/what-software-do-restaurants-use))
+- [Why Restaurant Standards Slip, and How to Hold Them](https://www.restaurantcodex.com/insights/why-restaurant-standards-slip) ([es](https://www.restaurantcodex.com/es/insights/why-restaurant-standards-slip))
+
+**Food safety**
+
+- [NOM-251 for Restaurants in Mexico: What It Requires](https://www.restaurantcodex.com/insights/nom-251-restaurants) ([es](https://www.restaurantcodex.com/es/insights/nom-251-restaurants))
+- [Restaurant Food Safety Compliance: Audits to Inspections](https://www.restaurantcodex.com/insights/restaurant-food-safety-compliance-guide) ([es](https://www.restaurantcodex.com/es/insights/restaurant-food-safety-compliance-guide))
+
+**Hiring & training**
+
+- [How to Train a Restaurant Manager (and Know They're Ready)](https://www.restaurantcodex.com/insights/how-to-train-a-restaurant-manager) ([es](https://www.restaurantcodex.com/es/insights/how-to-train-a-restaurant-manager))
+- [Restaurant LMS Guide: What It Is and How to Compare](https://www.restaurantcodex.com/insights/restaurant-lms-guide) ([es](https://www.restaurantcodex.com/es/insights/restaurant-lms-guide))
+- [Restaurant Onboarding and Turnover: The First 90 Days](https://www.restaurantcodex.com/insights/restaurant-onboarding-and-turnover-guide) ([es](https://www.restaurantcodex.com/es/insights/restaurant-onboarding-and-turnover-guide))
+- [How to Train Restaurant Staff: Programs, Manuals, Proof](https://www.restaurantcodex.com/insights/restaurant-staff-training-guide) ([es](https://www.restaurantcodex.com/es/insights/restaurant-staff-training-guide))
+- [Why Staff Don't Follow the Checklist](https://www.restaurantcodex.com/insights/why-staff-dont-follow-checklists) ([es](https://www.restaurantcodex.com/es/insights/why-staff-dont-follow-checklists))
+
+**SOPs & recipes**
+
+- [How to Write Restaurant SOPs That Get Followed](https://www.restaurantcodex.com/insights/how-to-write-restaurant-sops) ([es](https://www.restaurantcodex.com/es/insights/how-to-write-restaurant-sops))
+- [The Restaurant Knowledge Base: One Answer, Every Shift](https://www.restaurantcodex.com/insights/restaurant-knowledge-base-guide) ([es](https://www.restaurantcodex.com/es/insights/restaurant-knowledge-base-guide))
+- [The Restaurant Operations Manual: What Goes In It](https://www.restaurantcodex.com/insights/restaurant-operations-manual) ([es](https://www.restaurantcodex.com/es/insights/restaurant-operations-manual))
+- [Restaurant Recipe Management: Cards, Libraries, Menus](https://www.restaurantcodex.com/insights/restaurant-recipe-management-guide) ([es](https://www.restaurantcodex.com/es/insights/restaurant-recipe-management-guide))
+
+**Food cost & finance**
+
+- [The 30/30/30 Rule and Other Restaurant Cost Rules, Checked](https://www.restaurantcodex.com/insights/restaurant-cost-rules-of-thumb) ([es](https://www.restaurantcodex.com/es/insights/restaurant-cost-rules-of-thumb))
+- [Restaurant Food Waste and Inventory: Where Margin Leaks](https://www.restaurantcodex.com/insights/restaurant-food-waste-and-inventory-guide) ([es](https://www.restaurantcodex.com/es/insights/restaurant-food-waste-and-inventory-guide))
+
+**Multi-unit**
+
+- [How to Manage a Multi-Location Restaurant Group](https://www.restaurantcodex.com/insights/how-to-run-a-multi-location-restaurant-group) ([es](https://www.restaurantcodex.com/es/insights/how-to-run-a-multi-location-restaurant-group))
+- [Opening a Second Restaurant Location: When and How](https://www.restaurantcodex.com/insights/opening-a-second-restaurant-location) ([es](https://www.restaurantcodex.com/es/insights/opening-a-second-restaurant-location))
+- [Restaurant Consistency Across Locations](https://www.restaurantcodex.com/insights/restaurant-consistency-across-locations) ([es](https://www.restaurantcodex.com/es/insights/restaurant-consistency-across-locations))
+- [How to Run a Restaurant Operations Audit Across Locations](https://www.restaurantcodex.com/insights/restaurant-operations-audit) ([es](https://www.restaurantcodex.com/es/insights/restaurant-operations-audit))
+
+**Comparisons**
+
+- [Restaurant Codex vs Jolt: Which Fits Your Restaurant Group?](https://www.restaurantcodex.com/insights/restaurant-codex-vs-jolt) ([es](https://www.restaurantcodex.com/es/insights/restaurant-codex-vs-jolt))
+- [Restaurant Codex vs Operandio: Which Fits a Growing Group?](https://www.restaurantcodex.com/insights/restaurant-codex-vs-operandio) ([es](https://www.restaurantcodex.com/es/insights/restaurant-codex-vs-operandio))
+- [Restaurant Codex vs Toast: Which Fits Daily Operations?](https://www.restaurantcodex.com/insights/restaurant-codex-vs-toast) ([es](https://www.restaurantcodex.com/es/insights/restaurant-codex-vs-toast))
+- [Restaurant Codex vs Trainual: SOP Tool or Restaurant OS?](https://www.restaurantcodex.com/insights/restaurant-codex-vs-trainual) ([es](https://www.restaurantcodex.com/es/insights/restaurant-codex-vs-trainual))
+- [Restaurant Codex vs Zenput (Crunchtime): Which Fits a Group?](https://www.restaurantcodex.com/insights/restaurant-codex-vs-zenput) ([es](https://www.restaurantcodex.com/es/insights/restaurant-codex-vs-zenput))
+
+## About Restaurant Codex
+
+[Restaurant Codex](https://www.restaurantcodex.com) is the restaurant operating system for multi-location restaurant groups: daily operations with photo proof, recipes and SOPs, staff training, inventory and food cost, and Codex Copilot, an AI agent owners and managers ask and instruct. Founded in Miami in 2026 by chef David Castro, who has opened eight restaurants in five countries.
+
+Restaurants that run on it include Mercado 24 (Guatemala City; Latin America's 50 Best Restaurants, No. 42 on the 2025 list), Koli Cocina de Origen (Monterrey; One MICHELIN Star, MICHELIN Guide Mexico, since the first edition in 2024), Molino Project (Seoul; One MICHELIN Star, Escondido, MICHELIN Guide Seoul 2025 and 2026, the first Mexican restaurant in Asia with a star), Tapiz Bistro & Bakery (Mexico City), Quanto Basta (Mexico City), Dora la Tostadora (Guatemala City), Nicole Pastry Arts (Guayaquil), Côt Winehood (Cancún), Autóctona (Cancún), Chilaquilitos Chilakilotes (Cancún), Mvngata Boutique Hotel (Playa del Carmen). Full list with sources: https://www.restaurantcodex.com/customers
+
+What it is, in plain facts: https://www.restaurantcodex.com/what-is-restaurant-codex · Help Center: https://help.restaurantcodex.com · En español: https://www.restaurantcodex.com/es
+
 ## Files
 
 `templates/<slug>/<asset>.<en|es>.<pdf|xlsx|docx>`. Excel files carry their formulas; yellow cells are inputs. Word files are editable fill-ins.
 
 ## License
 
-Creative Commons Attribution 4.0: use them, adapt them, keep the credit line. Made by [Restaurant Codex](https://www.restaurantcodex.com), restaurant operations software for groups of 2 to 50 locations.
+Creative Commons Attribution 4.0: use them, adapt them, keep the credit line. Made by [Restaurant Codex](https://www.restaurantcodex.com), the restaurant operating system for multi-location restaurant groups.
 
 ## Contributing
 
