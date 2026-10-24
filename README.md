@@ -61,6 +61,10 @@ Temperatures follow the FDA Food Code 2022 (cold holding 41°F / 5°C or below, 
 
 Long, sourced guides that go with the templates, in English and Spanish:
 
+**Data & research**
+
+- [Mexico's Restaurants in Numbers: What the 2026 DENUE Shows](https://www.restaurantcodex.com/insights/mexico-restaurant-industry-data-2026) ([es](https://www.restaurantcodex.com/es/insights/mexico-restaurant-industry-data-2026))
+
 **Operations**
 
 - [AI in Restaurant Operations: What Works in 2026](https://www.restaurantcodex.com/insights/ai-for-restaurant-operations) ([es](https://www.restaurantcodex.com/es/insights/ai-for-restaurant-operations))
